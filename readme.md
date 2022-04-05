@@ -12,3 +12,14 @@ que por fim é verificado quantos dos 6 números o usário acertou
 1.  [ ]  subir para GitHubPages
 2.  [ ]  alterar os alerts
 3.  [ ]  deixar responsivo
+
+### disponibilizado em 
+[githubpage] (https://alineroa.github.io/loteca/)
+
+### prints da tela
+
+| ID | primeira tela | segunda tela |
+----------------------------------------
+| 1  | loteca limpa  | loteca preenchida |
+| 2  | ![image](https://user-images.githubusercontent.com/100213683/161781607-c4992bc5-2618-45f2-991b-b9c14cd3f471.png) |    |
+
