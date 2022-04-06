@@ -8,10 +8,10 @@ header {
 
 h1{
     font-size:5em;
-    color:rgb(78, 231, 78);
+    color:rgb(1, 5, 1);
     font-family:Georgia, 'Times New Roman', serif;
     letter-spacing: 2px;
-    text-shadow: rgb(77, 98, 218);
+    text-shadow: rgb(96, 238, 214);
     font-weight: bold;
     font-style: italic;
     margin-bottom: 5px;
@@ -20,7 +20,7 @@ h3{
     font-size: 3em;
     font-style: normal;
     font-variant: normal;
-    color: rgb(74, 91, 240)
+    color: rgb(0, 0, 0)
 }
 
 .selecao, .btnSortear, .sorteio, .acertos{
@@ -28,7 +28,7 @@ h3{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgb(21, 98, 197)
+    background-color: rgb(31, 172, 182)
 }
 
 .selecao> input{
@@ -43,7 +43,7 @@ h3{
 }
 
 footer{
-    background-color: rgb(18, 201, 233);
+    background-color: rgb(55, 240, 247);
     height: 100px;
     width: 100%;
     margin: 0;
